@@ -1,6 +1,7 @@
 # Gearbox Design for Industrial Table Saw
 
 This project involves developing a gearbox for an industrial application to enhance the system's performance. Specifically, the project focuses on a table saw, a widely used wood-cutting tool in the industry. The table saw operates with a circular saw driven primarily by an electric motor.
+![image](https://github.com/suresravinath/Machine-design-project/assets/118838341/ed23338e-dc9b-4770-97f4-b6de530c06e4)
 
 ## Project Overview
 
